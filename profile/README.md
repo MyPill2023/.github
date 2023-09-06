@@ -1,13 +1,12 @@
 # 💊 MyPill
-개발기간 : `2023.06.19` ~ `2023.07.14`
+총 개발기간 : `2023.06.19` ~ `진행중`
+- V1 개발기간 : `2023.06.19` ~ `2023.09.06`
+- V2 개발기간 :  `2023.09.06` ~ `진행중` 
 
-리팩토링 기간 : `2023.07.24` ~ `진행중` 
-
-</br>
 
 > 영양제 이커머스 플랫폼</br>
 MyPill에서는 설문 기반 맞춤형 영양소를 추천하고, 복약 관리 기능을 더한, 영양제 이커머스 플랫폼 입니다!
-- [🔗 MyPill](https://www.mypill.shop)
+- [🔗 MyPill](https://www.mypill.shop/)
 - [🔗 시연영상](https://youtu.be/VYYzGUSq1Hk)
 </br>
 
@@ -29,6 +28,11 @@ MyPill에서는 설문 기반 맞춤형 영양소를 추천하고, 복약 관리
 </br>
 
 ## 📢 프로젝트 소개
+
+### 🎈버전 소개
+    
+    V1 : 프로젝트 개발
+    V2 : Spring Batch, Redis, 쿼리 최적화, 부하테스트
 
 ### 🔎 프로젝트 상세 설명
 
@@ -118,7 +122,8 @@ MyPill에서는 설문 기반 맞춤형 영양소를 추천하고, 복약 관리
 ![ad5673640218fbc8](https://github.com/MyPill2023/MyPill/assets/64017307/5f4d29f8-89be-4518-9d75-6af04c8b3211)
 
 ## 📄 ERD
-![mypill_prod_ERD](https://github.com/MyPill2023/MyPill/assets/99067128/8ca92327-0348-4036-a1ff-7d7623f2ac27)
+![Untitled](https://github.com/MyPill2023/.github/assets/64017307/c91eb2d6-b87b-439c-af2d-476cc010c1ee)
+
 
 
 ## 📂 개발 자료
@@ -258,6 +263,3 @@ int[] arr = [1, 2, 3, 4]; //good
 - 특이사항
 
 </details>
-
-
-  
